@@ -1,0 +1,1 @@
+web: gunicorn Assignment_7.wsgi
